@@ -1,0 +1,123 @@
+export const User = [
+    {
+      id: 1,
+      name: {
+        firstname: "Nelbrey",
+        lastname: "Escuadro",
+      },
+      course: "BSIT",
+      yearsection: "3-A",
+      username: "nelbs",
+      password: "nelbrey01",
+      usertype: "STUDENT",
+    },
+    {
+      id: 2,
+      name: {
+        firstname: "Donilyn",
+        lastname: "Malanguis",
+      },
+      course: "BSIT",
+      yearsection: "3-A",
+      username: "doni",
+      password: "doni02",
+      usertype: "STUDENT",
+    },
+    {
+      id: 3,
+      name: {
+        firstname: "Arnold",
+        lastname: "Felisilda",
+      },
+      course: "BSCS",
+      yearsection: "3-A",
+      username: "james",
+      password: "james03",
+      usertype: "STUDENT",
+    },
+    {
+      id: 4,
+      name: {
+        firstname: "Arnel",
+        lastname: "Pajota",
+      },
+      course: "BSCS",
+      yearsection: "3-A",
+      username: "arnel",
+      password: "arnel04",
+      usertype: "STUDENT",
+    },
+    {
+      id: 5,
+      name: {
+        firstname: "Jerry",
+        lastname: "Ale",
+      },
+      course: "",
+      yearsection: "",
+      username: "jerry",
+      password: "jerry05",
+      usertype: "TEACHER",
+    },
+    {
+      id: 6,
+      name: {
+        firstname: "Hazel",
+        lastname: "Luayon",
+      },
+      course: "BSIT",
+      yearsection: "3-A",
+      username: "hazel",
+      password: "hazel06",
+      usertype: "STUDENT",
+    },
+    {
+      id: 7,
+      name: {
+        firstname: "Catherine Leah",
+        lastname: "Gabo",
+      },
+      course: "",
+      yearsection: "",
+      username: "catherine",
+      password: "catherine07",
+      usertype: "TEACHER",
+    },
+    {
+      id: 8,
+      name: {
+        firstname: "Ailen Mae",
+        lastname: "Marabulas",
+      },
+      course: "BSIT",
+      yearsection: "3-A",
+      username: "ailen",
+      password: "ailen08",
+      usertype: "STUDENT",
+    },
+    {
+      id: 9,
+      name: {
+        firstname: "Loui",
+        lastname: "Fuentes",
+      },
+      course: "BSIT",
+      yearsection: "3-A",
+      username: "loui",
+      password: "loui09",
+      usertype: "STUDENT",
+    },
+    {
+      id: 10,
+      name: {
+        firstname: "Fermo",
+        lastname: "Asufra",
+      },
+      course: "",
+      yearsection: "",
+      username: "fermo",
+      password: "fermo10",
+      usertype: "TEACHER",
+    },
+    
+  ];
